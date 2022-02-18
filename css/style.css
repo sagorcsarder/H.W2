@@ -1,0 +1,23 @@
+p {
+	border: 5px dashed black;
+}
+h6{
+    font-size: 40px;
+    color: blue;
+}
+h3{
+	border: 5px solid blue;
+}
+
+.head1{
+	background-color: red;
+}
+.box{
+    font-size: 40px;
+    width: 30%;
+	height: 40px;
+	
+}
+#head{
+    backgraound-color: #000000
+}
